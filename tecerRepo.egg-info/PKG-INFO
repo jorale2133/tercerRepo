@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: tecerRepo
+Version: 0.1.0
+Summary: Un paquete pip simple de saludo
+Home-page: https://github.com/jorale2133/tercerRepo
+Author: Alejandro S
+Author-email: jorale2133@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary
